@@ -1,0 +1,84 @@
+.player-card {
+  position: relative;
+  width: 300px;
+  margin: 20px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.player-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  background: radial-gradient(circle, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
+  z-index: -1; /* Ensure the gradient is behind the card content */
+}
+
+.player-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px 0 0;
+}
+
+.player-name {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.player-position {
+  font-size: 1.2em;
+  color: #555;
+}
+
+.player-stats {
+  margin-top: 10px;
+}
+
+.player-stats p {
+  margin: 5px 0;
+}
+.container-content {
+  display: flex;
+  width: 85%;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+}
+.player-card{
+    box-shadow: 3px 3px 3px 3px aquamarine;
+    
+}
+.container h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-size: 40px;
+    border-bottom: 3px solid aquamarine;
+    margin-top: 60px;
+}
+
+
+@media (max-width: 470px) {
+    .container h1 {
+      font-size: 30px;
+    }
+  
+    .player-name {
+      font-size: 1.2em;
+    }
+  
+    .player-position {
+      font-size: 1em;
+    }
+  }
+  
