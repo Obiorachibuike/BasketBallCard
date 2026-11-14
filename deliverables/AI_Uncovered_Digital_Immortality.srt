@@ -1,0 +1,562 @@
+1
+00:00:00,400 --> 00:00:02,870
+Imagine waking up one morning
+and discovering that your
+
+2
+00:00:02,880 --> 00:00:05,060
+body is no longer necessary.
+
+3
+00:00:06,203 --> 00:00:09,263
+You can see, think,
+remember your childhood,
+
+4
+00:00:09,273 --> 00:00:11,933
+recognize your family
+and have conversations.
+
+5
+00:00:13,216 --> 00:00:15,006
+But there's one strange difference...
+
+6
+00:00:16,029 --> 00:00:18,439
+You're no longer living
+inside a human body.
+
+7
+00:00:18,559 --> 00:00:20,199
+You're living inside a computer.
+
+8
+00:00:21,512 --> 00:00:22,852
+Sounds impossible, right?
+
+9
+00:00:23,755 --> 00:00:27,145
+But what if I told you that scientists
+are already developing technologies that
+
+10
+00:00:27,155 --> 00:00:29,745
+connect the human brain
+directly to machines?
+
+11
+00:00:30,708 --> 00:00:34,028
+And this raises one of the biggest
+questions in human history...
+
+12
+00:00:34,901 --> 00:00:38,611
+Could we someday upload our minds
+and live forever digitally?
+
+13
+00:00:40,400 --> 00:00:44,230
+To understand this idea, we first need
+to understand something extraordinary.
+
+14
+00:00:45,150 --> 00:00:48,550
+Your brain is one of the most
+complex structures known to science.
+
+15
+00:00:49,330 --> 00:00:52,820
+It contains approximately
+86 billion neurons.
+
+16
+00:00:53,610 --> 00:00:57,190
+These neurons communicate through
+electrical and chemical signals.
+
+17
+00:00:58,150 --> 00:01:03,070
+Every memory, emotion, movement and thought
+involves incredibly complex activity
+
+18
+00:01:03,080 --> 00:01:05,090
+across networks of brain cells.
+
+19
+00:01:05,980 --> 00:01:10,460
+When you remember your childhood, recognize
+someone's face or imagine tomorrow,
+
+20
+00:01:11,120 --> 00:01:14,790
+your brain is processing information
+through these interconnected networks.
+
+21
+00:01:16,060 --> 00:01:19,560
+Scientists want to understand how
+this information is represented.
+
+22
+00:01:20,600 --> 00:01:24,780
+Because if we could eventually map and
+simulate the brain in enough detail,
+
+23
+00:01:24,900 --> 00:01:27,940
+could we recreate its
+activity inside a computer?
+
+24
+00:01:30,400 --> 00:01:32,370
+This isn't entirely science fiction.
+
+25
+00:01:33,304 --> 00:01:37,514
+Scientists have already developed something
+called a brain-computer interface,
+
+26
+00:01:38,169 --> 00:01:40,259
+commonly known as a BCI.
+
+27
+00:01:41,453 --> 00:01:45,253
+These systems can detect and interpret
+certain signals from the brain.
+
+28
+00:01:46,247 --> 00:01:50,797
+In some experiments, people with severe
+paralysis have used these technologies
+
+29
+00:01:50,807 --> 00:01:52,507
+to control computer cursors,
+
+30
+00:01:53,232 --> 00:01:57,732
+communicate and even interact with
+digital devices using brain activity.
+
+31
+00:01:58,606 --> 00:02:01,546
+Some systems use electrodes
+placed on the scalp.
+
+32
+00:02:01,556 --> 00:02:04,746
+Others use implanted electrodes
+that record signals from
+
+33
+00:02:04,756 --> 00:02:06,226
+much closer to the brain.
+
+34
+00:02:07,771 --> 00:02:09,971
+Companies and research
+laboratories are working to
+
+35
+00:02:09,981 --> 00:02:11,801
+make these systems more capable.
+
+36
+00:02:12,715 --> 00:02:14,205
+But here's something important.
+
+37
+00:02:15,229 --> 00:02:19,049
+Reading certain brain signals is not
+the same as reading every thought,
+
+38
+00:02:19,059 --> 00:02:20,309
+memory or emotion.
+
+39
+00:02:21,484 --> 00:02:23,504
+And connecting a brain to a computer
+
+40
+00:02:24,328 --> 00:02:28,128
+is very different from
+transferring an entire human mind.
+
+41
+00:02:30,400 --> 00:02:33,310
+Some brain-computer interfaces
+use artificial intelligence
+
+42
+00:02:33,320 --> 00:02:35,530
+to decode patterns in brain signals.
+
+43
+00:02:36,200 --> 00:02:39,780
+Artificial neural networks are
+simplified computational models,
+
+44
+00:02:39,970 --> 00:02:42,600
+not complete copies of a biological brain.
+
+45
+00:02:45,400 --> 00:02:48,530
+Now imagine taking this
+technology much further.
+
+46
+00:02:49,351 --> 00:02:52,061
+Instead of simply reading
+signals from the brain,
+
+47
+00:02:52,742 --> 00:02:55,332
+scientists would need to
+understand its structure
+
+48
+00:02:55,342 --> 00:02:58,092
+and activity in extraordinary detail.
+
+49
+00:02:59,353 --> 00:03:02,133
+They would need to map the
+connections between neurons,
+
+50
+00:03:02,854 --> 00:03:07,274
+understand how memories are represented
+and reproduce the brain's important
+
+51
+00:03:07,284 --> 00:03:09,814
+processes in a computational system.
+
+52
+00:03:10,755 --> 00:03:14,615
+This hypothetical technology is
+often called whole-brain emulation.
+
+53
+00:03:14,685 --> 00:03:18,465
+Think of it like creating a highly
+detailed digital model of your brain.
+
+54
+00:03:19,556 --> 00:03:24,016
+Your memories, personality, habits and
+patterns of thinking would somehow need
+
+55
+00:03:24,026 --> 00:03:25,886
+to be represented in that model.
+
+56
+00:03:27,046 --> 00:03:28,846
+But there's a massive challenge.
+
+57
+00:03:29,957 --> 00:03:33,737
+We still don't know enough about how all
+these things work together to recreate
+
+58
+00:03:33,747 --> 00:03:35,477
+an entire human mind.
+
+59
+00:03:36,428 --> 00:03:39,728
+And even if we could create a
+perfect simulation of your brain,
+
+60
+00:03:40,729 --> 00:03:43,379
+would that simulation actually be you?
+
+61
+00:03:45,400 --> 00:03:48,670
+Now we arrive at the strangest
+part of this entire idea.
+
+62
+00:03:49,678 --> 00:03:53,598
+Imagine scientists successfully
+creating a digital copy of your brain.
+
+63
+00:03:54,305 --> 00:03:55,815
+It remembers your childhood.
+
+64
+00:03:56,373 --> 00:03:58,123
+It recognizes your family.
+
+65
+00:03:58,690 --> 00:04:00,550
+It speaks exactly like you.
+
+66
+00:04:01,188 --> 00:04:04,398
+It even remembers conversations
+that happened years ago.
+
+67
+00:04:05,276 --> 00:04:06,556
+But here's the question...
+
+68
+00:04:07,343 --> 00:04:11,373
+If your digital copy wakes up tomorrow,
+does that mean you are still alive?
+
+69
+00:04:12,101 --> 00:04:15,021
+Or have scientists simply
+created another version of you?
+
+70
+00:04:15,031 --> 00:04:18,711
+Imagine standing in front of a computer
+and hearing your digital copy say:
+
+71
+00:04:19,518 --> 00:04:20,768
+I remember everything.
+
+72
+00:04:21,576 --> 00:04:22,556
+I am you.
+
+73
+00:04:22,636 --> 00:04:25,696
+But your original body is
+still standing right there.
+
+74
+00:04:25,806 --> 00:04:27,606
+Which one is the real you?
+
+75
+00:04:29,174 --> 00:04:30,344
+This is one of the biggest
+
+76
+00:04:30,354 --> 00:04:33,494
+philosophical problems surrounding
+digital consciousness.
+
+77
+00:04:34,681 --> 00:04:39,051
+Copying someone's memories and
+personality does not automatically prove
+
+78
+00:04:39,579 --> 00:04:43,979
+that their original subjective experience
+or consciousness has been transferred.
+
+79
+00:04:45,400 --> 00:04:48,300
+If scientists eventually
+solve these problems,
+
+80
+00:04:49,280 --> 00:04:51,700
+the possibilities could be extraordinary.
+
+81
+00:04:53,180 --> 00:04:58,000
+Imagine preserving someone's memories
+and personality in a digital system.
+
+82
+00:04:59,470 --> 00:05:01,770
+Imagine being able to
+interact with a digital
+
+83
+00:05:01,780 --> 00:05:04,280
+representation of someone who passed away.
+
+84
+00:05:05,840 --> 00:05:09,630
+Imagine exploring virtual worlds
+without a biological body.
+
+85
+00:05:11,170 --> 00:05:14,930
+You could theoretically exist in
+environments that look completely different
+
+86
+00:05:14,940 --> 00:05:16,250
+from the physical world.
+
+87
+00:05:17,890 --> 00:05:19,780
+But there are enormous challenges.
+
+88
+00:05:19,790 --> 00:05:22,220
+How much computing power
+would this require?
+
+89
+00:05:23,530 --> 00:05:26,400
+How would we protect a
+person's digital identity?
+
+90
+00:05:27,840 --> 00:05:30,740
+Who would own the digital
+version of someone's mind?
+
+91
+00:05:31,860 --> 00:05:34,070
+And what happens if someone hacks it,
+
+92
+00:05:35,080 --> 00:05:37,760
+changes its memories or shuts it down?
+
+93
+00:05:39,060 --> 00:05:43,830
+Digital immortality could introduce
+problems humanity has never faced before.
+
+94
+00:05:45,400 --> 00:05:49,570
+Despite all the excitement, we are still
+very far away from uploading an entire
+
+95
+00:05:49,580 --> 00:05:51,500
+human brain into a computer.
+
+96
+00:05:52,251 --> 00:05:55,601
+The brain contains extraordinary
+biological complexity.
+
+97
+00:05:56,343 --> 00:05:58,843
+Scientists still have much
+to learn about memory,
+
+98
+00:05:58,853 --> 00:06:03,453
+consciousness and how the brain produces
+our personal experience of being alive.
+
+99
+00:06:04,424 --> 00:06:06,234
+Even mapping the brain in sufficient
+
+100
+00:06:06,244 --> 00:06:08,894
+detail presents enormous
+technical challenges.
+
+101
+00:06:09,846 --> 00:06:11,686
+And there's another important distinction.
+
+102
+00:06:12,117 --> 00:06:16,377
+A computer simulation that behaves like
+you might not necessarily experience the
+
+103
+00:06:16,387 --> 00:06:17,557
+world the way you do.
+
+104
+00:06:18,598 --> 00:06:22,548
+We don't currently have a proven
+scientific method for transferring human
+
+105
+00:06:22,558 --> 00:06:26,218
+consciousness from a biological
+brain into a digital system.
+
+106
+00:06:26,870 --> 00:06:32,472
+So for now, digital immortality remains
+a fascinating possibility rather than an
+
+107
+00:06:32,482 --> 00:06:33,982
+available technology.
+
+108
+00:06:35,200 --> 00:06:38,770
+So, what if scientists eventually
+discover how to upload the
+
+109
+00:06:38,780 --> 00:06:40,440
+human brain into a computer?
+
+110
+00:06:40,810 --> 00:06:41,660
+Would you do it?
+
+111
+00:06:42,140 --> 00:06:44,590
+Would you leave your biological
+body behind and take
+
+112
+00:06:44,600 --> 00:06:46,650
+a chance on digital immortality?
+
+113
+00:06:47,180 --> 00:06:51,260
+Or would you rather live a normal human
+life, knowing that it eventually comes
+
+114
+00:06:51,270 --> 00:06:52,030
+to an end?
+
+115
+00:06:52,900 --> 00:06:55,410
+Perhaps the biggest question
+isn't whether technology
+
+116
+00:06:55,420 --> 00:06:57,090
+can recreate the human brain.
+
+117
+00:06:57,310 --> 00:07:02,040
+It's whether a digital version of you
+could ever truly experience being you.
+
+118
+00:07:02,550 --> 00:07:03,380
+What do you think?
+
+119
+00:07:03,440 --> 00:07:06,110
+Would you upload your
+mind into a computer?
+
+120
+00:07:06,120 --> 00:07:07,490
+Let us know in the comments.
+
+121
+00:07:07,670 --> 00:07:10,510
+And subscribe to AI Uncovered,
+where we explore the
+
+122
+00:07:10,520 --> 00:07:13,830
+technology that could
+change humanity forever.
