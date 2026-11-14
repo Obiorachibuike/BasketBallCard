@@ -1,0 +1,6 @@
+__pycache__/
+prepared/
+graphics/
+rendered/
+sample_*.mp4
+chapters.ffmeta
